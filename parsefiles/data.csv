@@ -1,0 +1,1 @@
+url,method,datahttp://49.233.108.117:28019/api/v1/user/register,post,"{			""loginName"":""17011112222"",			""password"":""123456""		}"

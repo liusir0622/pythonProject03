@@ -1,0 +1,4 @@
+DEBUG:root:这是debug内容
+INFO:root:这是info内容
+WARNING:root:这是警告内容
+ERROR:root:这是error信息

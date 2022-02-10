@@ -1,0 +1,10 @@
+2022-01-23 11:23:20,322 DEBUG apitesting 这是debug信息
+2022-01-23 11:23:20,323 INFO apitesting 这是info信息
+2022-01-23 11:53:08,896 DEBUG apitesting 这是debug信息
+2022-01-23 11:53:08,900 INFO apitesting 这是info信息
+2022-01-23 11:53:12,635 DEBUG apitesting 这是debug信息
+2022-01-23 11:53:12,635 INFO apitesting 这是info信息
+2022-01-23 12:19:10,591 DEBUG apitesting 这是debug信息
+2022-01-23 12:19:10,594 INFO apitesting 这是info信息
+2022-02-10 21:41:27,557 DEBUG apitesting 这是debug信息
+2022-02-10 21:41:27,560 INFO apitesting 这是info信息

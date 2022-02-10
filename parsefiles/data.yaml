@@ -1,0 +1,9 @@
+body:
+  loginName: 17011112222
+  password: 123456
+casename: 登录
+result:
+  data: null
+  message: 用户名已存在！
+  resultCode: 500
+url: http://49.233.108.117:28019/api/v1/user/register

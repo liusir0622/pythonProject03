@@ -1,0 +1,1 @@
+{"casename": "登录", "url": "http://49.233.108.117:28019/api/v1/user/register", "body": {"loginName": "17011112222", "password": "123456"}, "result": {"resultCode": 500, "message": "用户名已存在！", "data": null}}
